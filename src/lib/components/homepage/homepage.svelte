@@ -1,11 +1,11 @@
 <script>
   import { Heading, P } from "flowbite-svelte";
-  import LoginBtn from "$lib/components/LoginBtn.svelte";
-  import Vinyl from "$lib/components/Vinyl.svelte";
+  import LoginBtn from "$lib/components/homepage/LoginBtn.svelte";
+  import Vinyl from "$lib/components/homepage/Vinyl.svelte";
 </script>
 
 <div
-  class="min-h-full p-4 flex flex-col gap-4 justify-center items-center text-center"
+  class="min-h-full p-4 flex flex-col gap-4 justify-center items-center text-center z-20"
 >
   <Vinyl />
   <Heading

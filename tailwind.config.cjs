@@ -13,6 +13,7 @@ const config = {
         darkblue: "#088395",
         lightblue: "#05BFDB",
         greenprincipal: "#00FFCA",
+        superdarkblue: "#001117",
       },
       fontFamily: {
         principal: "'Inter', sans-serif",

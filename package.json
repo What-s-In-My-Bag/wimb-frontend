@@ -29,6 +29,8 @@
   "type": "module",
   "dependencies": {
     "@popperjs/core": "^2.11.7",
+    "@zerodevx/svelte-toast": "^0.9.3",
+    "axios": "^1.4.0",
     "classnames": "^2.3.2",
     "flowbite": "^1.6.5",
     "flowbite-svelte": "^0.34.9"

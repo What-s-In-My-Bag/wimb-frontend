@@ -18,7 +18,7 @@
 <style lang="scss">
   .footer {
     @apply text-white w-full  
-      flex  justify-center items-center;
+      flex  justify-center items-center fixed bottom-0;
     .nav {
       @apply rounded-tl-full rounded-tr-full bg-darkerblue w-[80%] md:w-[50%] lg:w-[30%] p-2 bg-opacity-20;
       h4 {
